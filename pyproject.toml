@@ -1,0 +1,8 @@
+[project]
+name = "hr-voice-ai-agent"
+version = "0.1.0"
+description = "HR Voice AI Agent Platform"
+requires-python = ">=3.11"
+
+[tool.setuptools.packages.find]
+where = ["src"]
